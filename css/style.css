@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+/* Header Section */
+.header{
+    background: url(../images/donation5.jpg),linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.658));
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode:darken;
+    height:540px;
+}
+.header-section{
+    color: #FFFFFF;
+   padding:  200px 350px;
+    text-align: center;
+}
+.header-title{
+    font-size: 45px;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+.header-description{
+    color: rgba(255, 255, 255, 0.603);
+    margin-bottom: 20px;
+}
+.primary-btn{
+                padding: 14px 24px;
+                background-color: rgb(252, 62, 62);
+                color: #FFFFFF;
+                font-size: 16px;
+                font-weight: 500;
+                border: 0;
+                border-radius: 5px;
+}
+.section{
+    margin: 80px 180px;
+}
+.donate-today{
+    margin: 0 150px;
+    text-align: center;
+}
+.donate-today-haeder{
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 35px;
+    font-weight: 700;
+}
+.donate-today-desc{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.507);
+}
+.taka-section{
+    margin-top: 80px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+.taka-section span{
+    padding: 30px 20px;
+    background-color: rgba(41, 41, 41, 0.030);
+    color: rgba(22, 22, 22, 0.623);
+    margin-right: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.other-taka{
+    margin-top: 90px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgba(22, 22, 22, 0.623);
+}
+.donate-btn{
+    margin-top: 40px;
+}
