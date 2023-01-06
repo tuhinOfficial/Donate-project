@@ -75,3 +75,135 @@
 .donate-btn{
     margin-top: 40px;
 }
+/* Donate Plan Section */
+.our-donate-title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.our-donate-desc{
+    text-align: center;
+    margin: 0 200px;
+    color: rgba(22, 22, 22, 0.623);
+}
+.donate-plan-items{
+    display: flex;
+    gap: 30px;
+    margin-top: 70px;
+    text-align: justify;
+}
+.donate-item{
+    padding: 60px 20px;
+}
+.item1{
+background-color: #bfd5e759;
+}
+.item2{
+    background-color: rgba(255, 183, 183, 0.26);
+}
+.item3{
+    background-color: rgba(243, 225, 201, 0.712);
+}
+.donate-item-header{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.donate-plan-desc{
+    color: rgba(22, 22, 22, 0.623);
+}
+/* Contribute Section */
+.contribute{
+    display: flex;
+    gap: 70px;
+    margin: 130px 30px 0px 10px;
+    padding: 40px 0;
+    
+}
+.contribute-left{
+    padding: 0px 15px;
+    
+}
+.contribute-left-header{
+    font-size: 45px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.contribute-left-desc{
+    margin-bottom: 20px;
+    color: rgba(22, 22, 22, 0.623);
+}
+.contribute-right img{
+    width: 450px;
+    height: auto;
+    border-radius: 5px;
+}
+/* Survive Section */
+.need-survive{
+    display: flex;
+    gap: 70px;
+    margin-top: 50px;
+}
+
+.servive-left img{
+    width: 450px;
+    height: auto;
+    border-radius: 5px;
+}
+.survive-header{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.survive-desc{
+    margin-bottom: 20px;
+    color: rgba(22, 22, 22, 0.623);
+}
+/* Update Section */
+.update-section{
+    margin-top: 130px;
+    text-align: center;
+    padding: 0 150px;
+}
+.update-header{
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.update-desc{
+    margin-bottom: 40px;
+    color: rgba(22, 22, 22, 0.623);
+}
+.subscriber{
+    background-color: bisque;
+    padding: 80px;
+}
+.subscriber input[type="email"]{
+    width: 250px;
+    padding: 14px 24px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.13);
+    font-weight: 600;
+    margin: 0;
+}
+.subscriber input[type="button"]{
+    margin: 0;
+}
+/* Footer Section */
+
+.footer-section{
+    background-color: black;
+}
+.footer{
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.footer-header{
+    color: rgb(241, 128, 75);
+    margin-top: 10px;
+    font-family: 'Lobster', cursive;;
+}
+.footer-desc{
+    color: beige;
+    margin: 30px 0;
+    font-size: 14px;
+}
